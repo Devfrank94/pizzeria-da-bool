@@ -23,7 +23,6 @@ submit.addEventListener('click', function(){
   const selectedIngredients = [];
 
   for(let ingredient of selectIngredients.options){
-    console.log(ingredient.selected);
     if(ingredient.selected){
       selectedIngredients.push(ingredient.value)
     }
