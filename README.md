@@ -30,3 +30,14 @@ Ogni scheda deve avere:
 - Motore di ricerca per nome
 - Possibilità di aggiunta di una nuova pizza
 - Possibilità di modifica / eliminazione di una pizza presente 
+
+## Workflow
+- Creare db pizze (array oggetti delle pizze)
+- Aggiungere proprietà isVeg (vegana) alle pizze in base agli ingredienti
+- Ordinare le pizze per prezzo e stamparle
+- Visualizza pizza top (voto più alto)
+- Visualizzazione pizza cliccata
+- Aggiungere filtro veg
+- Sviluppare motore di ricerca per nome
+- Creare form per create della pizza
+- Creare form per edit della pizza
